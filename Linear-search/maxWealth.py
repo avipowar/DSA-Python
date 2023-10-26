@@ -33,7 +33,7 @@ def MaxmumWealth(arr):
 
             ans = sum
 
-    return sum
+    return ans
 
 
 arr = [
